@@ -1,0 +1,9 @@
+# never commit credentials or account data
+.env
+.env.*
+*.pem
+*.key
+credentials*
+data/
+*.jsonl
+*.db
